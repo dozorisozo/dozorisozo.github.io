@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dozorisozo.github.io/sitemap.xml
